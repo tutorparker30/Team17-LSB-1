@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitStudy\\LSB\\Source\\TeamProject\\TeamProject.Build.cs",
+		"C:\\GitStudy\\LSB\\Source\\TeamProject.Target.cs",
+		"C:\\GitStudy\\LSB\\Source\\TeamProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
